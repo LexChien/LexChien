@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🔭 Backend Engineer now focused on **LLM** & **AI Model**
 - 🧠 Passionate about clean code and system design
-- 💬 Ask me at: [Email](Lex@xsoin.com) ｜ [LinkedIn](https://www.linkedin.com/in/lexchien)
+- 💬 Ask me: [Email](Lex@xsoin.com)｜[LinkedIn](https://www.linkedin.com/in/lexchien)｜[Facebook](https://www.facebook.com/lexchiens)｜[Threads](https://www.threads.com/lexchien)｜[X](https://www.x.com/lexchien) 
 
 <table align="center">
   <tr>
