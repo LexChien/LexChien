@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <tr>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LexChien&layout=donut&langs_count=5&theme=dracula&exclude_repo=LexChien.github.io,IPET,IPET_Spring.ver">
-        <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LexChien&layout=donut&langs_count=5&theme=default&exclude_repo=LexChien.github.io,IPET,IPET_Spring.ver" alt="Top Languages" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=LexChien&layout=donut&langs_count=5&theme=default&exclude_repo=LexChien.github.io,IPET,IPET_Spring.ver" alt="Top Languages" />
       </picture>
     </td>
   </tr>
