@@ -27,14 +27,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧭 Quick Navigation
-
-- [Hi there 👋](#hi-there-)
-  - [🧭 Quick Navigation](#-quick-navigation)
-  - [👩‍💻 About Me](#-about-me)
-
----
-
 ### 👩‍💻 About Me
 
 - 🔭 Backend Engineer now focused on **LLM** & **AI Model**
@@ -47,13 +39,6 @@ Here are some ideas to get you started:
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LexChien&layout=donut&langs_count=5&theme=dracula&exclude_repo=LexChien.github.io,IPET,IPET_Spring.ver">
         <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LexChien&layout=donut&langs_count=5&theme=default&exclude_repo=LexChien.github.io,IPET,IPET_Spring.ver" alt="Top Languages" />
       </picture>
-    </td>
-    <td>
-      <tr>
-    <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LexChien&theme=dracula&hide_border=false" />
-</p>
-  </tr>
     </td>
   </tr>
 </table>
